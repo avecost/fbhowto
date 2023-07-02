@@ -36,9 +36,9 @@ func main() {
 		EventId:    1,
 		GameId:     1,
 		GameStatus: 0,
-		WalaBet:    5000,
+		WalaBet:    11000,
 		WalaOdd:    1,
-		MeronBet:   2000,
+		MeronBet:   4500,
 		MeronOdd:   2,
 	}
 
